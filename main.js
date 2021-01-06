@@ -134,7 +134,8 @@ var myCounter = 1;
 alert(myCounter++)
 */
 
+/*
 var myCounter = 1;
 
 alert(myCounter--)
-
+*/
