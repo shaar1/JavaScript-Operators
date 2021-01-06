@@ -11,6 +11,7 @@ var x = 100,
     document.getElementById("test").innerHTML = z;
     */
 
+/* 
    var x = 1000,
 
    y = 150,
@@ -18,4 +19,22 @@ var x = 100,
    z = x - y; //z = 1000 - 150 = 850
 
    document.getElementById("test").innerHTML = z;
+*/
 
+/*
+var x = "Abdallah",
+
+   y = 150,
+
+   z = x - y; //z = "Abdallah" - 150 = Abdallah150
+
+   document.getElementById("test").innerHTML = z;
+*/
+
+var x = "Abdallah",
+
+   y = 150,
+
+   z = x + y; //z = "Abdallah" + 150 = Abdallah150
+
+   document.getElementById("test").innerHTML = z;
