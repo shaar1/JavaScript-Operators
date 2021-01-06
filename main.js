@@ -1,7 +1,10 @@
 /* global console, alert */
 /*  + -  */
 /* */
-/* 
+/*  
+
+
+
 var x = 100,
 
     y = 200,
@@ -10,6 +13,7 @@ var x = 100,
 
     document.getElementById("test").innerHTML = z;
     */
+
 
 /* 
    var x = 1000,
@@ -21,6 +25,7 @@ var x = 100,
    document.getElementById("test").innerHTML = z;
 */
 
+
 /*
 var x = "Abdallah",
 
@@ -30,6 +35,7 @@ var x = "Abdallah",
 
    document.getElementById("test").innerHTML = z;
 */
+
 
 /*
 var x = "Abdallah",
@@ -41,6 +47,7 @@ var x = "Abdallah",
    document.getElementById("test").innerHTML = z;
 */
 
+
 /*
 var x = 1000,
 
@@ -51,12 +58,31 @@ var x = 1000,
    document.getElementById("test").innerHTML = z;
    */
 
-
+/*
   var x = 1000,
 
-  y = 200,
+      y = 200,
 
-  z = x / y; //z = 1000 / 200 = 5
+      z = x / y; //z = 1000 / 200 = 5
 
   document.getElementById("test").innerHTML = z;
-  
+  */
+
+/*
+var x = 1000,
+
+    y = 200,
+
+    z = x * y; //z = 1000 * 200 = 200000
+
+document.getElementById("test").innerHTML = z;
+*/
+
+
+var x = 99,
+
+    y = 20,
+
+    z = x * y; //z = 99 * 20 = 1980
+
+document.getElementById("test").innerHTML = z;
