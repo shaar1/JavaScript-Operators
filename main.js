@@ -78,7 +78,7 @@ var x = 1000,
 document.getElementById("test").innerHTML = z;
 */
 
-
+/*
 var x = 99,
 
     y = 20,
@@ -86,3 +86,34 @@ var x = 99,
     z = x * y; //z = 99 * 20 = 1980
 
 document.getElementById("test").innerHTML = z;
+*/
+
+/*
+var x = 200,
+
+    y = 20,
+
+    z = x % y; //z = 200 % 20 = 0
+
+document.getElementById("test").innerHTML = z;
+*/
+
+/*
+var x = 201,
+
+    y = 20,
+
+    z = x % y; //z = 201 % 20 = 1
+
+document.getElementById("test").innerHTML = z;
+*/
+
+var x = 199,
+
+    y = 19,
+
+    z = x % y; //z = 199 % 19 = 9
+
+document.getElementById("test").innerHTML = z;
+
+
