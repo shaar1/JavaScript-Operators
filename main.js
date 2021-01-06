@@ -108,6 +108,7 @@ var x = 201,
 document.getElementById("test").innerHTML = z;
 */
 
+/*
 var x = 199,
 
     y = 19,
@@ -115,5 +116,25 @@ var x = 199,
     z = x % y; //z = 199 % 19 = 9
 
 document.getElementById("test").innerHTML = z;
+*/
 
+/*
+var x = 14,
+
+    y = 4,
+
+    z = x % y; //z = 14 % 4 = 2
+
+document.getElementById("test").innerHTML = z;
+*/
+
+/*
+var myCounter = 1;
+
+alert(myCounter++)
+*/
+
+var myCounter = 1;
+
+alert(myCounter--)
 
